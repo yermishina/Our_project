@@ -22,10 +22,10 @@ Park Live | Боль | Пикник "Афиши" | Bosco Fresh Fest
 
 Вторым шагом мы изучили количество участников из каждого города. (*PS не обращайте внимание на качество графиков, я позже поправлю, чтобы они все одного размера были и красиво смотрелись*).
 
-![image_is_here](ParkLiveCities.png) ![image_is_here](PainCities.jpg) ![image_is_here](PicnicAfishiCities.jpg) ![image_is_here](BoscoCities.jpg)
+![image_is_here](ParkLiveCities.png) ![image_is_here](PainCities.jpg) ![image_is_here](PicnicAfishiCities_2.png) ![image_is_here](BoscoCities.jpg)
 
 Третьим шагом выявили участников из столиц (Москва и Санкт-Петербург) и других городов.
 
-![image_is_here](ParkLive.png) ![image_is_here](Pain.jpg) ![image_is_here](PicnicAfishi.jpg) ![image_is_here](BoscoFest.jpg)
+![image_is_here](ParkLive.png) ![image_is_here](Pain.jpg) ![image_is_here](PicnicAfishi.png) ![image_is_here](BoscoFest.jpg)
 
 **Выводы:**
