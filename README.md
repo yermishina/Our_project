@@ -19,3 +19,11 @@
 Park Live | Боль | Пикник "Афиши" | Bosco Fresh Fest
 :----     | ----:| :----:         | :----:
  25.946   | 13.259| 16.609        | 15.259
+
+Вторым шагом мы изучили количество участников из каждого города.
+
+![image_is_here](ParkLiveCities.png) ![image_is_here](PainCities.jpg) ![image_is_here](PicnicAfishiCities.jpg) ![image_is_here](BoscoCities.jpg)
+
+Третьим шагом выявили участников из столиц (Москва и Санкт-Петербург) и других городов.
+
+![image_is_here](ParkLive.png) ![image_is_here](Pain.jpg) ![image_is_here](PicnicAfishi.jpg) ![image_is_here](BoscoFest.jpg)
