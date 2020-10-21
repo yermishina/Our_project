@@ -59,11 +59,11 @@ Park Live | Боль | Пикник "Афиши" | Bosco Fresh Fest
 
 ![image_is_here](img/masterpiece.jpg)
 
-Our jupyter notebook_1 is [here](PicnicAfishi_FINAL_Mila_Makaeva.ipynb)
+Our jupyter notebook_1 is [here](code/PicnicAfishi_FINAL_Mila_Makaeva.ipynb)
 
-Our jupyter notebook_2 is [here](FINAL_Tarasova_PAIN.ipynb)
+Our jupyter notebook_2 is [here](code/FINAL_Tarasova_PAIN.ipynb)
 
-Our jupyter notebook_3 is [here](ParkLive_FINAL.ipynb)
+Our jupyter notebook_3 is [here](code/ParkLive_FINAL.ipynb)
 
-Our jupyter notebook_4 is [here](BoscoFreshFest.ipynb)
+Our jupyter notebook_4 is [here](code/BoscoFreshFest.ipynb)
 
