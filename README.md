@@ -16,13 +16,13 @@ Park Live Festival,
 
 Мы сознательно выбрали фестивали, которые представляют разные виды музыки, чтобы посмотреть, есть ли в их официальных пабликах общие элементы. 
 
-![image_is_here](content_parklive.jpg)
+![image_is_here](img/content_parklive.jpg)
 
-![image_is_here](Боль.jpg) 
+![image_is_here](img/Боль.jpg) 
 
-![image_is_here](Пикник.jpg) 
+![image_is_here](img/Пикник.jpg) 
 
-![image_is_here](Боско.jpg) 
+![image_is_here](img/Боско.jpg) 
 
 ### **Задачи проекта:**
 
@@ -40,18 +40,18 @@ Park Live | Боль | Пикник "Афиши" | Bosco Fresh Fest
 
 Наибольшая аудитория фестивалей сосредоточена в Москве и Петербурге, что фиксирует слабую заинтересованность данными событиями у «региональных» любителей музыки.
 
-![image_is_here](ПаркЛайв_график1.png) ![image_is_here](Боль_график1.png) ![image_is_here](Пикник_график1.jpg) ![image_is_here](Боско_график1.jpg)
+![image_is_here](img/ПаркЛайв_график1.png) ![image_is_here](img/Боль_график1.png) ![image_is_here](img/Пикник_график1.jpg) ![image_is_here](img/Боско_график1.jpg)
 
-![image_is_here](ПаркЛайв_график2.png) ![image_is_here](Боль_график2.png) ![image_is_here](Пикник_график2.jpg) ![image_is_here](Боско_график2.jpg)
+![image_is_here](img/ПаркЛайв_график2.png) ![image_is_here](img/Боль_график2.png) ![image_is_here](img/Пикник_график2.jpg) ![image_is_here](img/Боско_график2.jpg)
 
 Отметим, что наибольшее количество «региональной» аудитории у фестиваля Park Live. 
 
-![image_is_here](распределение_аудитории.jpg)
+![image_is_here](img/распределение_аудитории.jpg)
 
 
 Однако мы вычислили, что подписчики страницы Park Live слабо интересуются тремя другими фестивалями, поэтому предлагаем посмотреть на пересечение подписчиков Bosco Fresh Fest, БОЛЬ и Пикник «Афиши».
 
-![image_is_here](circle.jpg)
+![image_is_here](img/circle.jpg)
 
 Среди подписчиков четырех страниц мы выявили всего 18 меломанов: именно столько людей следят за информацией одновременно четырех фестивалей.
 
@@ -67,6 +67,6 @@ Park Live | Боль | Пикник "Афиши" | Bosco Fresh Fest
 
 Несовпадение информационных элементов на страницах ВК показало, что фестиваль БОЛЬ, Bosco Fresh Fest, Park Live Festival, Пикник «Афиши» находятся в разных информационных и музыкальных контекстах. 
 
-![image_is_here](masterpiece.jpg)
+![image_is_here](img/masterpiece.jpg)
 
 
