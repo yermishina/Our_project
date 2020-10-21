@@ -40,7 +40,7 @@ Park Live | Боль | Пикник "Афиши" | Bosco Fresh Fest
 
 Наибольшая аудитория фестивалей сосредоточена в Москве и Петербурге, что фиксирует слабую заинтересованность данными событиями у «региональных» любителей музыки.
 
-![image_is_here](img/ПаркЛайв_график1.png) ![image_is_here](img/Боль_график1.png) ![image_is_here](img/Пикник_график1.jpg) ![image_is_here](Боско_график1jpg)
+![image_is_here](img/ПаркЛайв_график1.png) ![image_is_here](img/Боль_график1.png) ![image_is_here](img/Пикник_график1.jpg) ![image_is_here](Боско_график1jpg.jpgg)
 
 ![image_is_here](img/ПаркЛайв_график2.png) ![image_is_here](img/Боль_график2.png) ![image_is_here](img/Пикник_график2.jpg) ![image_is_here](img/Боско_график2.jpg)
 
