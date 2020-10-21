@@ -13,13 +13,7 @@
 
 Мы сознательно выбрали фестивали, которые представляют разные виды музыки, чтобы посмотреть, есть ли в их официальных пабликах Вконтакте общие элементы. 
 
-![image_is_here](img/content_parklive.jpg)
-
-![image_is_here](img/Боль.jpg) 
-
-![image_is_here](img/Пикник.jpg) 
-
-![image_is_here](img/Боско.jpg) 
+![image_is_here](img/MyCollages.jpg)
 
 ### **Задачи проекта:**
 
